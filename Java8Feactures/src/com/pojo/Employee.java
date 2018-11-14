@@ -25,7 +25,7 @@ public class Employee {
 								new Employee("Sunny","cx005","AM",50000D,"Lkhanow"),
 								new Employee("Vaibhav","cx006","Dev",3000D,"Chennai"),
 								new Employee("Nomita","cx007","Tester",2000D,"Hydrabad"),
-								new Employee("James","cx001","CEO",10000000D,"Delhi")
+								new Employee("James","cx008","CEO",10000000D,"Delhi")
 								));
 			}
 		

@@ -19,6 +19,11 @@ this.sClass = sClass;
 this.sMarks = sMarks;
 }
 
+@Override
+	public String toString() {
+	return "Name:- "+this.sName + " Age :- "+this.sAge;
+}
+
 public String getsName() {
 	return sName;
 }

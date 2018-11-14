@@ -1,3 +1,4 @@
+
 package com.Function;
 
 import java.util.function.Function;
